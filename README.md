@@ -112,7 +112,7 @@ REACT_APP_SUPABASE_URL=your_url
 REACT_APP_SUPABASE_ANON_KEY=your_key
 
 👨‍💻 Author
-Developed by: Riyan Abdullah
+Developed by: Zaid Malik
 Project Type: Student Full Stack Project
 
 ⭐ Future Improvements
